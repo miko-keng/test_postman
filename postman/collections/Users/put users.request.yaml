@@ -1,0 +1,5 @@
+$kind: http-request
+name: put users
+url: http://localhost:3000/users/1
+method: PUT
+order: 2149453694925806
